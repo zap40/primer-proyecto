@@ -1,0 +1,1 @@
+[01-Apr-2025 15:48:32 UTC] Error de evento de reprogramación de cron para el hook: wp_version_check. Código de error: could_not_set. Mensaje de error: No se ha podido guardar la lista de eventos del cron.. Datos: {"schedule":"twicedaily","args":[],"interval":43200}
