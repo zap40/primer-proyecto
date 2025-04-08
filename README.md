@@ -1,1 +1,1 @@
-mi primera prueba con gif
+mi primera prueba con git
